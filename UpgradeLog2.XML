@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Assignment1">
+</Property><Property Name="Solution File" Value="Z:\Ryan On My Mac\Documents\Penn State\Fall 2010\CMPSC 458\HeightMap\Assignment1.sln">
+</Property><Property Name="User Options File" Value="Z:\Ryan On My Mac\Documents\Penn State\Fall 2010\CMPSC 458\HeightMap\Assignment1.suo">
+</Property><Property Name="Date" Value="Tuesday, September 14, 2010">
+</Property><Property Name="Time" Value="20:15 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Assignment1.sln" Description="File successfully backed up as Z:\Ryan On My Mac\Documents\Penn State\Fall 2010\CMPSC 458\HeightMap\Assignment1.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Assignment1.suo" Description="File successfully backed up as Z:\Ryan On My Mac\Documents\Penn State\Fall 2010\CMPSC 458\HeightMap\Assignment1.suo.old">
+</Event><Event ErrorLevel="0" Project="Assignment1" Source="Assignment1.vcproj" Description="Converting project file 'Z:\Ryan On My Mac\Documents\Penn State\Fall 2010\CMPSC 458\HeightMap\Assignment1.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Assignment1" Source="Assignment1.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Assignment1" Source="Assignment1.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Assignment1" Source="Assignment1.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Assignment1" Source="Assignment1.vcproj" Description="Done converting to new project file 'Z:\Ryan On My Mac\Documents\Penn State\Fall 2010\CMPSC 458\HeightMap\Assignment1.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Assignment1" Source="Assignment1.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Assignment1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Assignment1.sln" Description="Converted">
+</Event></UpgradeLog>
